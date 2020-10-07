@@ -203,3 +203,4 @@ References
 * Kubernetes: https://kubernetes.io
 * PostgreSQL cluster using statefulsets https://kubernetes.io/blog/2017/02/postgresql-clusters-kubernetes-statefulsets
 * Tutorial: Deploy PostgreSQL on Kubernetes Running the OpenEBS Storage Engine https://thenewstack.io/tutorial-deploy-postgresql-on-kubernetes-running-the-openebs-storage-engine/
+* Monitoring an application on Kubernetes on a Raspberry Pi with k3s https://bleemeo.com/blog/monitoring-application-on-kubernetes-on-raspberry-pi-k3s
